@@ -4,7 +4,7 @@ description: "Album"
 featured_image: "images/depthseeker_album.jpg"
 tags: ["release"]
 title: "Depthseeker"
-omit_header_text: false
+omit_header_text: true
 ---
 - [Summary](#summary)
 - [Spotify album](#spotify-album)

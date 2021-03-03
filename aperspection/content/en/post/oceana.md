@@ -4,6 +4,7 @@ description: "Oceana release"
 featured_image: "images/oceana_album.jpg"
 tags: ["release"]
 title: "Oceana"
+omit_header_text: true
 ---
 - [History](#history)
 - [Spotify](#spotify)
