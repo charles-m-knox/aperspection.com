@@ -23,7 +23,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "favicon.svg"
   site_logo = ""
   description = ""
   facebook = ""
