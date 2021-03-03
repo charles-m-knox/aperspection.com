@@ -1,0 +1,45 @@
+title = "Aperspection"
+baseURL = "https://aperspection.com"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "./themes"
+resourceDir = "./resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Aperspection"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = ""
+  facebook = ""
+  twitter = "https://twitter.com/Aperspection"
+  instagram = ""
+  youtube = "https://www.youtube.com/channel/UCRKYPX7s7pKqzHFBQxrb_AQ"
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = "index.xml"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  # body_classes = "helvetica" # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
+  featured_image = "images/banner_no_text.jpg"
+  recent_posts_number = 2
+  custom_css = ["css/custom.css"]

@@ -1,0 +1,6 @@
+[submodule "aperspection/themes/hugo-tranquilpeak-theme"]
+path = aperspection/themes/hugo-tranquilpeak-theme
+url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "aperspection/themes/ananke"]
+	path = aperspection/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
