@@ -51,7 +51,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Depthseeker album link](https://open.spotify.com/album/1D9gQUuml64rUFybWxJiB4?si=WGNYQJyDS7emslF1USEwNw)
 
 {{< rawhtml >}}
-<iframe src="https://open.spotify.com/embed/album/1D9gQUuml64rUFybWxJiB4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe title="Aperspection - Depthseeker Album on Spotify" src="https://open.spotify.com/embed/album/1D9gQUuml64rUFybWxJiB4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ## Individual Tracks
@@ -61,7 +61,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Reflex](https://open.spotify.com/track/22CC4JApiCKI27THKmSzw7?si=V-q7P-RdQE2EWgKsTA5OPA)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/22CC4JApiCKI27THKmSzw7" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Reflex on Spotify" src="https://open.spotify.com/embed/track/22CC4JApiCKI27THKmSzw7" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Desolate Paradigm
@@ -69,7 +69,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Desolate Paradigm](https://open.spotify.com/track/5MFpj3Elbe4EfDkfI7Xc2N?si=2TZf13POTAqAVLcSTzAyNQ)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/5MFpj3Elbe4EfDkfI7Xc2N" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Desolate Paradigm on Spotify" src="https://open.spotify.com/embed/track/5MFpj3Elbe4EfDkfI7Xc2N" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Emotion, Not Control
@@ -77,7 +77,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Emotion, Not Control](https://open.spotify.com/track/2ax6YTS2VdEw0bUVub7kp1?si=BJgjHvakTS-e5vYNNHPyJg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/2ax6YTS2VdEw0bUVub7kp1" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Emotion, Not Control on Spotify" src="https://open.spotify.com/embed/track/2ax6YTS2VdEw0bUVub7kp1" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Interlude I
@@ -85,7 +85,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Interlude I](https://open.spotify.com/track/6FbtZFDcp3xamSxckBKIdF?si=C6iSWFNrRcSjxMxXRUB8Lg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/6FbtZFDcp3xamSxckBKIdF" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Interlude I on Spotify" src="https://open.spotify.com/embed/track/6FbtZFDcp3xamSxckBKIdF" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Oceana
@@ -93,7 +93,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Oceana](https://open.spotify.com/track/1MclKycKGvhxVl1UCRGlmV?si=irHYp_KtSlisbe5VUNpXzw)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/1MclKycKGvhxVl1UCRGlmV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Oceana on Spotify" src="https://open.spotify.com/embed/track/1MclKycKGvhxVl1UCRGlmV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Twilight Knockdown
@@ -101,7 +101,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Twilight Knockdown](https://open.spotify.com/track/5gvoPgKpHB8w26kW5GFkts?si=IuvzH65jRFiGDggoizusHA)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/5gvoPgKpHB8w26kW5GFkts" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Twilight Knockdown on Spotify" src="https://open.spotify.com/embed/track/5gvoPgKpHB8w26kW5GFkts" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Freefall
@@ -109,7 +109,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Freefall](https://open.spotify.com/track/2k7OMxJBvOvuffB3zKwA2J?si=DJ8QUGEMQJesX-egoLV2tg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/2k7OMxJBvOvuffB3zKwA2J" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Freefall on Spotify" src="https://open.spotify.com/embed/track/2k7OMxJBvOvuffB3zKwA2J" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Float With Me
@@ -117,7 +117,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Float With Me](https://open.spotify.com/track/0dcONZ7dcsrjbwUBmPH30q?si=eqjeP_QRROi0wTU_aJb72Q)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/0dcONZ7dcsrjbwUBmPH30q" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Float With Me on Spotify" src="https://open.spotify.com/embed/track/0dcONZ7dcsrjbwUBmPH30q" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Glowing Streamer
@@ -125,7 +125,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Glowing Streamer](https://open.spotify.com/track/2rJQwyiB1eZsfEjOXzoW2N?si=yTY-vM1nTz2eJDQ72soemg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/2rJQwyiB1eZsfEjOXzoW2N" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Glowing Streamer on Spotify" src="https://open.spotify.com/embed/track/2rJQwyiB1eZsfEjOXzoW2N" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Interlude II
@@ -133,7 +133,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Interlude II](https://open.spotify.com/track/37oJy3Oo9W0GMKIA6L54dN?si=FzFWkIUSS-GAgM08PeznOw)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/37oJy3Oo9W0GMKIA6L54dN" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Interlude II on Spotify" src="https://open.spotify.com/embed/track/37oJy3Oo9W0GMKIA6L54dN" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### On the Edge
@@ -141,7 +141,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [On the Edge](https://open.spotify.com/track/52KzS6Y9U5VqOVdUleSAJL?si=xlrJ-VBRRCmd2IpoG0x04A)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/52KzS6Y9U5VqOVdUleSAJL" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - On the Edge on Spotify" src="https://open.spotify.com/embed/track/52KzS6Y9U5VqOVdUleSAJL" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### All Colors
@@ -149,7 +149,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [All Colors](https://open.spotify.com/track/0t48u2d1Q09tghKdeRNiod?si=i1Si2GNxQPequSsHnhg4tA)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/0t48u2d1Q09tghKdeRNiod" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - All Colors on Spotify" src="https://open.spotify.com/embed/track/0t48u2d1Q09tghKdeRNiod" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Chillville
@@ -157,7 +157,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Chillville](https://open.spotify.com/track/4EVRUN09jeocPh9v8gRXo4?si=ONHw10bXTAChLTvDY_d4Ew)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/4EVRUN09jeocPh9v8gRXo4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Chillville on Spotify" src="https://open.spotify.com/embed/track/4EVRUN09jeocPh9v8gRXo4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Sonascape
@@ -165,7 +165,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Sonascape](https://open.spotify.com/track/5mJsMbzogSMcGMCRL0DBo4?si=o4ZsL-CTTDKtctaU3S-p2A)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/5mJsMbzogSMcGMCRL0DBo4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Sonascape on Spotify" src="https://open.spotify.com/embed/track/5mJsMbzogSMcGMCRL0DBo4" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Interlude III
@@ -173,7 +173,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Interlude III](https://open.spotify.com/track/48pK6XZYUa38WL0eCaYd0c?si=kctIZ2QNSwyEhhtyj-fD1A)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/48pK6XZYUa38WL0eCaYd0c" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Interlude III on Spotify" src="https://open.spotify.com/embed/track/48pK6XZYUa38WL0eCaYd0c" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Blood Rush
@@ -181,7 +181,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Blood Rush](https://open.spotify.com/track/6mVCbZDbdtKp7WvnscNpQV?si=6IRJmNsHQzWM7gj_9ousAw)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/6mVCbZDbdtKp7WvnscNpQV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Blood Rush on Spotify" src="https://open.spotify.com/embed/track/6mVCbZDbdtKp7WvnscNpQV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Epiphany
@@ -189,7 +189,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Epiphany](https://open.spotify.com/track/4p10N9JwW9vNtA0vlDKD3x?si=eTLDV5gwQNa5B_B6l4-HXg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/4p10N9JwW9vNtA0vlDKD3x" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Epiphany on Spotify" src="https://open.spotify.com/embed/track/4p10N9JwW9vNtA0vlDKD3x" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Interlude IV
@@ -197,7 +197,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Interlude IV](https://open.spotify.com/track/0IgopPKQKmpCoSV1Vxefi0?si=TkyfwA3CSc-CLJXiUhNuNg)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/0IgopPKQKmpCoSV1Vxefi0" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Interlude IV on Spotify" src="https://open.spotify.com/embed/track/0IgopPKQKmpCoSV1Vxefi0" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Corporeal Echo
@@ -205,7 +205,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Corporeal Echo](https://open.spotify.com/track/4ZOCmetpws2XWYpaiIdIY5?si=X6cxBC-VRpCVlX8WIM3RIQ)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/4ZOCmetpws2XWYpaiIdIY5" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Corporeal Echo on Spotify" src="https://open.spotify.com/embed/track/4ZOCmetpws2XWYpaiIdIY5" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### A Trip to Maldives
@@ -213,7 +213,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [A Trip to Maldives](https://open.spotify.com/track/66fKbJUmY1KXvPQotVq2uz?si=p4_Et_42QMWHYMQbKTOa7A)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/66fKbJUmY1KXvPQotVq2uz" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - A Trip to Maldives on Spotify" src="https://open.spotify.com/embed/track/66fKbJUmY1KXvPQotVq2uz" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 ### Float With Me (Radio Edit)
@@ -221,7 +221,7 @@ The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove w
 [Float With Me (Radio Edit)](https://open.spotify.com/track/157gbPKNWjSqLSKNiGBaRD?si=omVxheGiRB-Atk_jIv7vng)
 
 {{< rawhtml >}}
-  <iframe src="https://open.spotify.com/embed/track/157gbPKNWjSqLSKNiGBaRD" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe title="Aperspection - Float With Me (Radio Edit) on Spotify" src="https://open.spotify.com/embed/track/157gbPKNWjSqLSKNiGBaRD" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {{< /rawhtml >}}
 
 

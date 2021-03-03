@@ -22,6 +22,7 @@ featured_image: "images/banner_no_text.jpg"
 
 {{< rawhtml >}}
 <iframe style="padding-top: 1rem;"
+    title="Aperspection - Top Tracks on Spotify"
     src="https://open.spotify.com/embed/artist/7pFEaNLFMkGw8VTCDgSlbo"
     width="100%" height="350" frameborder="0"
     allowtransparency="true" allow="encrypted-media">

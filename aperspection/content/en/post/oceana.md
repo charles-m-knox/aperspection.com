@@ -35,7 +35,7 @@ Released initially on iTunes (and a few other stores including Spotify) back aro
 
 {{< rawhtml >}}
 
-<iframe src="https://open.spotify.com/embed/track/6ZxzsYMFuNjofsQgG8DInj" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6ZxzsYMFuNjofsQgG8DInj" title="Oceana - Radio Edit on Spotify" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 {{< /rawhtml >}}
 
@@ -43,7 +43,7 @@ Released initially on iTunes (and a few other stores including Spotify) back aro
 
 {{< rawhtml >}}
 
-<iframe src="https://open.spotify.com/embed/album/5wsvzMWT1Dx8pxZClti752" width="100%" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/5wsvzMWT1Dx8pxZClti752" title="Oceana EP on Spotify" width="100%" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 {{< /rawhtml >}}
 
@@ -64,7 +64,7 @@ This YouTube playlist for the Oceana EP comes straight from the official distrib
 I does not receive any revenue from Soundcloud streams.
 
 {{< rawhtml >}}
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/84642548&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aperspection" title="Aperspection" target="_blank" style="color: #cccccc; text-decoration: none;">Aperspection</a> · <a href="https://soundcloud.com/aperspection/oceana-radio-edit" title="Oceana - Radio Edit" target="_blank" style="color: #cccccc; text-decoration: none;">Oceana - Radio Edit</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/84642548&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" title="Oceana - Radio Edit on Soundcloud"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aperspection" title="Aperspection" target="_blank" style="color: #cccccc; text-decoration: none;">Aperspection</a> · <a href="https://soundcloud.com/aperspection/oceana-radio-edit" title="Oceana - Radio Edit" target="_blank" style="color: #cccccc; text-decoration: none;">Oceana - Radio Edit</a></div>
 {{< /rawhtml >}}
 
 ## Shazam
