@@ -2,7 +2,7 @@ SITE=aperspection
 
 build:
 	-rm -rf ./$(SITE)/public ./resources/_gen
-	cd $(SITE) && hugo -D -v
+	cd $(SITE) && HUGO_ENV=production hugo -D -v
 	-rm -rf ./docs
 	cp -ar $(SITE)/public ./docs
 	touch ./docs/.nojekyll
