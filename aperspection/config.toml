@@ -7,7 +7,7 @@ resourceDir = "./resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -41,5 +41,5 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   # body_classes = "helvetica" # https://github.com/tachyons-css/tachyons/blob/v4.7.0/src/_font-family.css
   featured_image = "images/banner_no_text.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 10
   custom_css = ["css/custom.css"]
