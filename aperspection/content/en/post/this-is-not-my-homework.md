@@ -6,17 +6,18 @@ tags: ["release"]
 title: "This Is Not My Homework"
 omit_header_text: true
 ---
-- [History](#history)
-- [Spotify](#spotify)
-- [YouTube](#youtube)
-- [Apple Music/iTunes](#apple-musicitunes)
-- [Final Note](#final-note)
-
-## History
 
 Written around 2014 while attending university and putting off some upcoming homework assignments, *This Is Not My Homework* is a track with a bit more of an edge. I was experimenting with making bigger bass sounds and this is the result. At the time, sharing the production of this track with friends was a blast.
 
 The song has a pretty standard beat for the first half; the latter half is where the action is, taking inspiration from Wolfgang Gartner, and a soundtrack to a portal-like isometric puzzle video game I once played, but sadly cannot remember to this day. Enjoy!
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Spotify](#spotify)
+- [YouTube](#youtube)
+- [Apple Music/iTunes](#apple-musicitunes)
+- [Final Note](#final-note)
 
 ## Spotify
 

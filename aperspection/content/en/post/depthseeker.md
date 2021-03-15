@@ -6,7 +6,22 @@ tags: ["release"]
 title: "Depthseeker"
 omit_header_text: true
 ---
-- [Summary](#summary)
+
+Depthseeker is a collection of songs from the years 2012-2016. A few interludes allow for transitions between songs that share a similar feel.
+
+Starting with [*Reflex*](#reflex), a personal favorite of mine, the first 3 songs have a more ambient and atmospheric feel to them. [*Desolate Paradigm*](#desolate-paradigm) is a unique drum and bass track that has a solid foundational bassline, and was influenced by the musician [Arpyem](https://open.spotify.com/artist/2CiRpkhwIUTCnAThfOxnZW?si=tcrfpwyNT9S-UUeguI_6pA). [*Emotion, Not Control*](#emotion-not-control) shifts into a more gentle vibe, with moving chord progressions.
+
+The first interlude, [*Interlude I*](#interlude-i) shifts the listeners into [*Oceana*](#oceana), which sets the scene for more traditional moving beats. [*Twilight Knockdown*](#twilight-knockdown), [*Freefall*](#freefall), [*Float With Me*](#float-with-me), and [*Glowing Streamer*](#glowing-streamer) all push the beat while still keeping the melodies gentle and satisfying.
+
+The second interlude, [*Interlude II*](#interlude-ii) feels like a paused moment in time - pushing us into the next track, [*On the Edge*](#on-the-edge), which has a bit more roughness, a bit less melodic focus, and embraces more of a progressive vibe. Next, [*All Colors*](#all-colors), being the only song on the album with any obvious lyrics, is a song influenced by Moby's [*Porcelain*](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa?si=mopCY9N_TZ2wJ--vF9NlXA) and vows to embrace people of diversified backgrounds. Next, [*Chillville*](#chillville) takes us into a zone of mellow sound all around, before plunging into [*Sonascape*](#sonascape) for a bit more of a deep house vibe.
+
+The third interlude, [*Interlude III*](#interlude-iii) immediately shifts from the deep house vibes to the sudden onset of [*Blood Rush*](#blood-rush) - arguably the most intense track on the album, it has a rushed aesthetic filled with reverberating synths. It's followed by [*Epiphany*](#epiphany), a track that feels unfocused feels, but brings new clarity and focus into view.
+
+The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove within seconds. Almost like a waiting room for funk, the song has an enticing appeal with a mix of piano, bass, and saws. [*Corporeal Echo*](#corporeal-echo) comes next, with a very deep, emotional, persisting feel throughout the song. Last, we have [*A Trip to Maldives*](#a-trip-to-maldives), which embodies a happy, melodic journey to Maldives to see bioluminescent phytoplankton glowing bright blue on the ocean waves. The final bonus track is the radio edit of [*Float With Me*](#float-with-me-radio-edit), which cuts-short the orchestral introduction of the full version.
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
 - [Spotify album](#spotify-album)
 - [Individual Tracks](#individual-tracks)
   - [Reflex](#reflex)
@@ -31,20 +46,6 @@ omit_header_text: true
   - [A Trip to Maldives](#a-trip-to-maldives)
   - [Float With Me (Radio Edit)](#float-with-me-radio-edit)
 - [Final note](#final-note)
-
-## Summary
-
-Depthseeker is a collection of songs from the years 2012-2016. A few interludes allow for transitions between songs that share a similar feel.
-
-Starting with [*Reflex*](#reflex), a personal favorite of mine, the first 3 songs have a more ambient and atmospheric feel to them. [*Desolate Paradigm*](#desolate-paradigm) is a unique drum and bass track that has a solid foundational bassline, and was influenced by the musician [Arpyem](https://open.spotify.com/artist/2CiRpkhwIUTCnAThfOxnZW?si=tcrfpwyNT9S-UUeguI_6pA). [*Emotion, Not Control*](#emotion-not-control) shifts into a more gentle vibe, with moving chord progressions.
-
-The first interlude, [*Interlude I*](#interlude-i) shifts the listeners into [*Oceana*](#oceana), which sets the scene for more traditional moving beats. [*Twilight Knockdown*](#twilight-knockdown), [*Freefall*](#freefall), [*Float With Me*](#float-with-me), and [*Glowing Streamer*](#glowing-streamer) all push the beat while still keeping the melodies gentle and satisfying.
-
-The second interlude, [*Interlude II*](#interlude-ii) feels like a paused moment in time - pushing us into the next track, [*On the Edge*](#on-the-edge), which has a bit more roughness, a bit less melodic focus, and embraces more of a progressive vibe. Next, [*All Colors*](#all-colors), being the only song on the album with any obvious lyrics, is a song influenced by Moby's [*Porcelain*](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa?si=mopCY9N_TZ2wJ--vF9NlXA) and vows to embrace people of diversified backgrounds. Next, [*Chillville*](#chillville) takes us into a zone of mellow sound all around, before plunging into [*Sonascape*](#sonascape) for a bit more of a deep house vibe.
-
-The third interlude, [*Interlude III*](#interlude-iii) immediately shifts from the deep house vibes to the sudden onset of [*Blood Rush*](#blood-rush) - arguably the most intense track on the album, it has a rushed aesthetic filled with reverberating synths. It's followed by [*Epiphany*](#epiphany), a track that feels unfocused feels, but brings new clarity and focus into view.
-
-The final interlude, [*Interlude IV*](#interlude-iv) sets the stage for groove within seconds. Almost like a waiting room for funk, the song has an enticing appeal with a mix of piano, bass, and saws. [*Corporeal Echo*](#corporeal-echo) comes next, with a very deep, emotional, persisting feel throughout the song. Last, we have [*A Trip to Maldives*](#a-trip-to-maldives), which embodies a happy, melodic journey to Maldives to see bioluminescent phytoplankton glowing bright blue on the ocean waves. The final bonus track is the radio edit of [*Float With Me*](#float-with-me-radio-edit), which cuts-short the orchestral introduction of the full version.
 
 ## Spotify album
 

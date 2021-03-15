@@ -6,7 +6,19 @@ tags: ["release"]
 title: "Oceana"
 omit_header_text: true
 ---
-- [History](#history)
+
+The track Oceana was written in 2012. It was one of the first full tracks I made that I was able to polish into a pleasant sound.
+
+This track embodies what I love about electronic music:
+
+* A comfortable, relaxed vibe.
+* Present, moving bass.
+* The feeling like you're somewhere else for a few minutes.
+
+Released initially on iTunes (and a few other stores including Spotify) back around 2014, I had to take it down after it was up for a year. Now, fast forward to 2021, 9 years since its inception - we can hear it again.
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Spotify](#spotify)
   - [Spotify - Oceana Radio Edit](#spotify---oceana-radio-edit)
   - [Spotify - Oceana EP](#spotify---oceana-ep)
@@ -16,18 +28,6 @@ omit_header_text: true
 - [Soundcloud](#soundcloud)
 - [Shazam](#shazam)
 - [Final Note](#final-note)
-
-## History
-
-The track Oceana was written in 2012. It was one of the first full tracks I made that I was able to polish into a pleasant sound.
-
-This track embodies what I love about electronic music:
-
-* A comfortable, relaxed vibe
-* Present, moving bass
-* The feeling like you're somewhere else for a few minutes
-
-Released initially on iTunes (and a few other stores including Spotify) back around 2014, I had to take it down after it was up for a year. Now, fast forward to 2021, 9 years since its inception - we can hear it again.
 
 ## Spotify
 
