@@ -37,7 +37,7 @@ YouTube is not currently available.
 
 ## Apple Music/iTunes
 
-Direct link: https://music.apple.com/us/album/sessel-single/1554976209?uo=4&app=music&at=1001lry3&ct=dashboard
+Direct link: https://music.apple.com/us/album/sessel-single/1554976209
 
 {{< rawhtml >}}
 
