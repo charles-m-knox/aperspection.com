@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29T00:00:00Z
+date: 2021-03-31T00:00:00Z
 description: "Space Codes release"
 featured_image: "images/space-codes.jpg"
 tags: ["release"]
@@ -48,14 +48,15 @@ This YouTube playlist for the Seasons track comes straight from the official dis
 
 Direct link: TBD - not available yet. You can view my artist profile [here](https://music.apple.com/us/artist/aperspection/689555703).
 
-<!-- <iframe title="Seasons on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/seasons-single/1555346528"></iframe> -->
+<!--
+<iframe title="Seasons on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/seasons-single/1555346528"></iframe>
 
 {{< rawhtml >}}
 
 <iframe title="Aperspection on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/artist/aperspection/689555703"></iframe>
 
 {{< /rawhtml >}}
-
+ -->
 ## Final Note
 
 Go listen to the EP on Spotify or other music streaming services and support Aperspection!
