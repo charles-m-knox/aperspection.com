@@ -7,7 +7,7 @@ title: "Space Codes"
 omit_header_text: true
 ---
 
-Space Codes consists of 3 60-minute tracks that are meant to help you focus. The three songs come bundled with the [Space Codes](https://charlesmknox.com/apps/space-codes/) app.
+Space Codes consists of 3 60-minute tracks that are meant to help you focus. The three songs come bundled with the [Space Codes](https://charlesmknox.com/apps/space-codes/) app - unfortunately, the app is not currently going to land on the App Store, but it is a work in progress.
 
 Each song in the release follows a similar repetitive pattern with variance over the span of each hour-long listen. The songs are meant to become background noise, with the intention of helping you reach higher productivity every time you need to sit down and focus.
 
@@ -30,11 +30,11 @@ If you like what you hear, let me know via social media or simply by listening!
 
 ## Spotify
 
-Direct link: https://open.spotify.com/album/13G7DZeFCuWQm9bYt61u37
+Direct link: https://open.spotify.com/album/0hTv4cjmDRaozuQWnH4xtm?si=8IvJZWXdRP2Msx5PqOvktg
 
 {{< rawhtml >}}
 
-<iframe src="https://open.spotify.com/embed/track/22Z8hX8B1NIQVobLk5OU6B" title="Seasons on Spotify" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/0hTv4cjmDRaozuQWnH4xtm" title="Space Codes on Spotify" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 {{< /rawhtml >}}
 
@@ -42,18 +42,20 @@ Direct link: https://open.spotify.com/album/13G7DZeFCuWQm9bYt61u37
 
 This YouTube playlist for the Seasons track comes straight from the official distribution label that I use.
 
-{{< youtube PqcOzGyU9XI >}}
+{{< youtube 9jpJOao1ObY >}}
 
 ## Apple Music/iTunes
 
-Direct link: https://music.apple.com/us/album/seasons-single/1555346528
+Direct link: TBD - not available yet. You can view my artist profile [here](https://music.apple.com/us/artist/aperspection/689555703).
+
+<!-- <iframe title="Seasons on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/seasons-single/1555346528"></iframe> -->
 
 {{< rawhtml >}}
 
-<iframe title="Seasons on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/seasons-single/1555346528"></iframe>
+<iframe title="Aperspection on Apple Music" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/artist/aperspection/689555703"></iframe>
 
 {{< /rawhtml >}}
 
 ## Final Note
 
-Go listen to the EP on Spotify or other music streaming services and support Aperspection! And, download the app to see how long you've been in space 🙂
+Go listen to the EP on Spotify or other music streaming services and support Aperspection!
