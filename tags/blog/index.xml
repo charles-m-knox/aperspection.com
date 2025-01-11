@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Aperspection</title><link>https://aperspection.com/tags/blog/</link><description>Recent content in Blog on Aperspection</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Jan 2025 17:00:01 +0000</lastBuildDate><atom:link href="https://aperspection.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Next - 1000 Plays</title><link>https://aperspection.com/next-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:01 +0000</pubDate><guid>https://aperspection.com/next-1000/</guid><description>&lt;p>&lt;a href="https://open.spotify.com/track/2oPFRuPD6kXiMVO7QxIazB">Next&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone some time over the last week or two, I suspect. It is the second of my songs to hit this threshold on Spotify.&lt;/p>
+&lt;p>Thanks to all of those who spent time listening to this song! Here are a few bits of info about the track that you might appreciate.&lt;/p>
+&lt;h2 id="production-statistics">Production statistics&lt;/h2>
+&lt;p>The song was started on October 31st, 2012. It was last modified on December 15, 2012.&lt;/p>
+&lt;p>The total time spent on it was 16 hours.&lt;/p>
+&lt;p>Other stats:&lt;/p>
+&lt;ul>
+&lt;li>Plugins: 122&lt;/li>
+&lt;li>Channels: 73&lt;/li>
+&lt;li>Mixer tracks: 30&lt;/li>
+&lt;/ul>
+&lt;p>This song had a few different rhythms/melodies/variants before settling on the version you hear today. In FL Studio, the project has a bunch of extra unused content that didn&amp;rsquo;t make the cut. This explains the high number of plugins/channels/tracks mentioned above.&lt;/p>
+&lt;h2 id="production-notes">Production notes&lt;/h2>
+&lt;p>I sometimes worked on this song while riding the bus.&lt;/p>
+&lt;p>In a few of my songs, I like to use open hi-hats on each quarter note, synchronized with the kick. This track does it well.&lt;/p>
+&lt;p>This song makes extensive use of an old, 32-bit FL Studio VST plugin called Wasp. It&amp;rsquo;s responsible for most of the synthesized sounds.&lt;/p>
+&lt;p>I used Wasp for many of my songs made in the same 2010-ish timeframe like &lt;a href="https://aperspection.com/oceana/">Oceana&lt;/a> and Next - it had a unique white noise modulator that added a breathy tone to the synth that I loved, and I used it liberally.&lt;/p>
+&lt;p>Unfortunately, I can no longer play the song in modern FL Studio versions because Wasp was never ported to 64 bit.&lt;/p>
+&lt;p>I consider Harmless to be the successor to Wasp (in FL Studio&amp;rsquo;s suite of VST plugins), and I have found that it just can&amp;rsquo;t produce the same sounds. Harmor is an option, but the major advantage of Wasp and Harmless is that both plugins have a streamlined user experience.&lt;/p>
+&lt;p>So, consider Next a tribute to Wasp, if nothing else&amp;hellip; and consider it an entry in my list of songs that are defined by open hi-hats on quarter notes.&lt;/p>
+&lt;h2 id="interest">Interest&lt;/h2>
+&lt;p>If you have any questions about Next, feel free to &lt;a href="https://aperspection.com/contact/">reach out to me via the contact page&lt;/a>. I&amp;rsquo;d be happy to hear from you.&lt;/p></description></item><item><title>Space Code B - 1000 Plays</title><link>https://aperspection.com/space-code-b-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:00 +0000</pubDate><guid>https://aperspection.com/space-code-b-1000/</guid><description>&lt;p>&lt;a href="https://open.spotify.com/track/1zDoLjCqeNdlCi1vftSGg8">Space Code B&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone as of late 2024, and currently sits at 1,327 plays as I post this. It is the first aperspection song to reach 1,000 plays.&lt;/p>
+&lt;p>All of the songs in the &lt;a href="https://aperspection.com/space-codes/">Space Codes&lt;/a> series help me stay focused when I&amp;rsquo;m grinding out certain tasks that require critical thought, such as programming.&lt;/p>
+&lt;p>I hope all &amp;gt;1000 of those plays helped others do the same.&lt;/p>
+&lt;h2 id="composition">Composition&lt;/h2>
+&lt;p>Each of the Space Codes songs&amp;rsquo; composition is relatively simple - a few basic synths, a bassline, and then ambient sounds sprinkled in to create atmosphere. There&amp;rsquo;s really not much to it.&lt;/p>
+&lt;p>Each of the synths and ambient sounds are slowly altered in intervals as the song progresses. Low and high-pass filters are modulated on low-frequency oscillators (LFOs) at varied intervals. This gives the song a sense of fluid continuity and mitigates the otherwise static nature of the same chords and notes being played repeatedly for an hour.&lt;/p>
+&lt;h2 id="production-notes">Production notes&lt;/h2>
+&lt;p>Space Codes A, B, C, and D were created without using any 3rd party VSTs in FL Studio. All sounds are created using synthesizers and effects plugins that ship with the software suite.&lt;/p>
+&lt;p>No audio samples were used at all. The project file is self-contained and is highly portable between different systems.&lt;/p>
+&lt;p>The complexity in producing a Space Code track is low. It only took a handful of hours to create Space Code B, for example.&lt;/p>
+&lt;h2 id="interest">Interest&lt;/h2>
+&lt;p>If you have any questions about Space Codes, feel free to &lt;a href="https://aperspection.com/contact/">reach out to me via the contact page&lt;/a>. I&amp;rsquo;d be happy to hear from you.&lt;/p></description></item></channel></rss>
