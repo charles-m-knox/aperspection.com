@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Aperspection</title><link>https://aperspection.com/tags/blog/</link><description>Recent content in Blog on Aperspection</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Jan 2025 17:00:01 +0000</lastBuildDate><atom:link href="https://aperspection.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Next - 1000 Plays</title><link>https://aperspection.com/next-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:01 +0000</pubDate><guid>https://aperspection.com/next-1000/</guid><description>&lt;p>&lt;a href="https://open.spotify.com/track/2oPFRuPD6kXiMVO7QxIazB">Next&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone some time over the last week or two, I suspect. It is the second of my songs to hit this threshold on Spotify.&lt;/p>
-&lt;p>Thanks to all of those who spent time listening to this song! Here are a few bits of info about the track that you might appreciate.&lt;/p>
-&lt;h2 id="production-statistics">Production statistics&lt;/h2>
-&lt;p>The song was started on October 31st, 2012. It was last modified on December 15, 2012.&lt;/p>
-&lt;p>The total time spent on it was 16 hours.&lt;/p>
-&lt;p>Other stats:&lt;/p>
-&lt;ul>
-&lt;li>Plugins: 122&lt;/li>
-&lt;li>Channels: 73&lt;/li>
-&lt;li>Mixer tracks: 30&lt;/li>
-&lt;/ul>
-&lt;p>This song had a few different rhythms/melodies/variants before settling on the version you hear today. In FL Studio, the project has a bunch of extra unused content that didn&amp;rsquo;t make the cut. This explains the high number of plugins/channels/tracks mentioned above.&lt;/p>
-&lt;h2 id="production-notes">Production notes&lt;/h2>
-&lt;p>I sometimes worked on this song while riding the bus.&lt;/p>
-&lt;p>In a few of my songs, I like to use open hi-hats on each quarter note, synchronized with the kick. This track does it well.&lt;/p>
-&lt;p>This song makes extensive use of an old, 32-bit FL Studio VST plugin called Wasp. It&amp;rsquo;s responsible for most of the synthesized sounds.&lt;/p>
-&lt;p>I used Wasp for many of my songs made in the same 2010-ish timeframe like &lt;a href="https://aperspection.com/oceana/">Oceana&lt;/a> and Next - it had a unique white noise modulator that added a breathy tone to the synth that I loved, and I used it liberally.&lt;/p>
-&lt;p>Unfortunately, I can no longer play the song in modern FL Studio versions because Wasp was never ported to 64 bit.&lt;/p>
-&lt;p>I consider Harmless to be the successor to Wasp (in FL Studio&amp;rsquo;s suite of VST plugins), and I have found that it just can&amp;rsquo;t produce the same sounds. Harmor is an option, but the major advantage of Wasp and Harmless is that both plugins have a streamlined user experience.&lt;/p>
-&lt;p>So, consider Next a tribute to Wasp, if nothing else&amp;hellip; and consider it an entry in my list of songs that are defined by open hi-hats on quarter notes.&lt;/p>
-&lt;h2 id="interest">Interest&lt;/h2>
-&lt;p>If you have any questions about Next, feel free to &lt;a href="https://aperspection.com/contact/">reach out to me via the contact page&lt;/a>. I&amp;rsquo;d be happy to hear from you.&lt;/p></description></item><item><title>Space Code B - 1000 Plays</title><link>https://aperspection.com/space-code-b-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:00 +0000</pubDate><guid>https://aperspection.com/space-code-b-1000/</guid><description>&lt;p>&lt;a href="https://open.spotify.com/track/1zDoLjCqeNdlCi1vftSGg8">Space Code B&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone as of late 2024, and currently sits at 1,327 plays as I post this. It is the first aperspection song to reach 1,000 plays.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Aperspection</title><link>https://aperspection.com/tags/blog/</link><description>Recent content in Blog on Aperspection</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2025 23:59:00 +0000</lastBuildDate><atom:link href="https://aperspection.com/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Fake streams caused my song to be taken down</title><link>https://aperspection.com/next-1000-fakes/</link><pubDate>Thu, 30 Jan 2025 23:59:00 +0000</pubDate><guid>https://aperspection.com/next-1000-fakes/</guid><description>&lt;p>I recently &lt;a href="https://aperspection.com/next-1000/">wrote a post celebrating a sudden burst of 1,000+ plays on the song Next&lt;/a>:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;a href="https://open.spotify.com/track/2oPFRuPD6kXiMVO7QxIazB">Next&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone some time over the last week or two, I suspect. It is
+the second of my songs to hit this threshold on Spotify.&lt;/p>
+&lt;/blockquote>
+&lt;p>I was pleased that this song was gaining some traffic, and wondered what happened.&lt;/p>
+&lt;p>My &amp;ldquo;Spotify for Artists&amp;rdquo; dashboard shows a spike in about 623 plays on Friday, January 24, 2025. After that, it returned &lt;em>exactly&lt;/em> to the previous amount. It was an anomaly.&lt;/p>
+&lt;p>I figured it was perhaps someone on a Twitch stream playing it and doing something akin to a Spotify Jam with many listeners. Perhaps most people might not like it, but it would explain a sudden burst with a decline back to normal stream counts.&lt;/p>
+&lt;h2 id="artificial-streams">Artificial streams&lt;/h2>
+&lt;p>Turns out, the traffic was probably fake. I received an email from my music distributing service provider today:&lt;/p>
+&lt;blockquote>
+&lt;p>ALERT: Your music has been removed from Spotify due to artificial streaming activity&lt;/p>
+&lt;p>Spotify has detected that the majority of streams on some of your track(s) were artificial.&lt;/p>
+&lt;p>As a result, the release(s) containing those track(s) have been removed from Spotify.&lt;/p>
+&lt;p>Your music has not been removed from any other streaming service and is still live everywhere else where you&amp;rsquo;ve chosen to distribute it.&lt;/p>
+&lt;/blockquote>
+&lt;p>It&amp;rsquo;s a bummer to have this happen. I don&amp;rsquo;t care about getting rich off of my music, because my music isn&amp;rsquo;t really meant for the masses. I just upload it so that others might stumble upon something they enjoy every now and then.&lt;/p>
+&lt;p>I&amp;rsquo;d simply prefer to have the fraudulent activity erased from my stream history and simply not be paid for streams that aren&amp;rsquo;t real. Instead, I might have to re-upload tracks. All because of some random person or bot that decided to stream one of my songs.&lt;/p>
+&lt;h2 id="is-it-worth-it">Is it worth it?&lt;/h2>
+&lt;p>If this happens again, I might consider taking down my music. I pay a small fee every year to upload music to these platforms, and I have no interest in dealing with this.&lt;/p></description></item><item><title>Next - 1000 Plays</title><link>https://aperspection.com/next-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:01 +0000</pubDate><guid>https://aperspection.com/next-1000/</guid><description>&lt;p>&lt;del>&lt;a href="https://open.spotify.com/track/2oPFRuPD6kXiMVO7QxIazB">Next&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone some time over the last week or two, I suspect. It is the second of my songs to hit this threshold on Spotify.&lt;/del>&lt;/p>
+&lt;p>&lt;del>Thanks to all of those who spent time listening to this song! Here are a few bits of info about the track that you might appreciate.&lt;/del>&lt;/p>
+&lt;p>Update 2025-01-30: &lt;a href="https://aperspection.com/next-1000-fakes/">Turns out, these plays were &amp;ldquo;artificial&amp;rdquo;&lt;/a>.&lt;/p></description></item><item><title>Space Code B - 1000 Plays</title><link>https://aperspection.com/space-code-b-1000/</link><pubDate>Sat, 11 Jan 2025 17:00:00 +0000</pubDate><guid>https://aperspection.com/space-code-b-1000/</guid><description>&lt;p>&lt;a href="https://open.spotify.com/track/1zDoLjCqeNdlCi1vftSGg8">Space Code B&lt;/a> has reached the &amp;ldquo;1,000 plays&amp;rdquo; milestone as of late 2024, and currently sits at 1,327 plays as I post this. It is the first aperspection song to reach 1,000 plays.&lt;/p>
 &lt;p>All of the songs in the &lt;a href="https://aperspection.com/space-codes/">Space Codes&lt;/a> series help me stay focused when I&amp;rsquo;m grinding out certain tasks that require critical thought, such as programming.&lt;/p>
 &lt;p>I hope all &amp;gt;1000 of those plays helped others do the same.&lt;/p>
 &lt;h2 id="composition">Composition&lt;/h2>
